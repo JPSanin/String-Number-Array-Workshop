@@ -1,0 +1,9 @@
+
+This is a workshop for my Algorithms and Programming 1 class. It contains various exercises that
+achieve different operations with strings, numbers and arrays. In the first part you can work with 
+strings and see stuff like the string length, the concatenation of strings, and select a character.
+With the numbers you can divide them, their whole parts and see the remainder. As for the arrays,
+you can print the arrays, calculate the average of the elements of the array, see the maximum value
+in the array, generate new arrays by adding, subtracting or multiplying arrays, generate new arrays
+by uniting them with or without repetition or intercepting them, spin an array, and finally ordering
+from least to greatest the elements of an array.
